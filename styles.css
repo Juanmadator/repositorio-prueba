@@ -7,3 +7,9 @@ body{
 h1{
     color: red;
 }
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+}
